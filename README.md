@@ -1,0 +1,2 @@
+# PhotoLibraryApplication
+This iOS application gives users the ability to create online accounts using their emails and create a repository for their photos. Users are authenticated using Firebase Email Provider. Users information is saved in Firebase Real Time Database. Users can manage their photos by adding new photos from their device photo library and can delete them if needed. All the photo resources are maintained in Firebase Storage and user can have authorized access to photos uploaded by them only.
